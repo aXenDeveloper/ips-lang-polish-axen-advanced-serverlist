@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski (PL)" rtl="0">
+ <app key="axenserverlist" version="10003">
+  <word key="__app_axenserverlist" js="0">(aXen) Advanced Server List</word>
+  <word key="menutab__axenserverlist_icon" js="0">server</word>
+  <word key="menutab__axenserverlist" js="0">Advanced Server List</word>
+  <word key="menu__axenserverlist_servers" js="0">Zarządzanie serwerami</word>
+  <word key="menu__axenserverlist_servers_settings" js="0">Ustawienia</word>
+  <word key="menu__axenserverlist_servers_servers" js="0">Serwery</word>
+  <word key="axenserverlist_game" js="0">Gra</word>
+  <word key="axenserverlist_name" js="0">Własna nazwa</word>
+  <word key="axenserverlist_ip" js="0">IP</word>
+  <word key="axenserverlist_owners" js="0">Właściciele</word>
+  <word key="axenserverlist_statistics" js="0">Statystyka URL</word>
+  <word key="axenserverlist_tv" js="0">TV URL</word>
+  <word key="axenserverlist_vote" js="0">Głosowanie URL</word>
+  <word key="axenserverlist_forum" js="0">Forum URL</word>
+  <word key="axenserverlist_new" js="0">Nowy serwer?</word>
+  <word key="block_aXenServerListWidget" js="0">Lista serwerów</word>
+  <word key="block_aXenServerListWidget_desc" js="0">Widżet pokazuje serwery</word>
+  <word key="aXenServerList_widget_title" js="0">Nasze serwery</word>
+  <word key="aXenServerList_widget_more" js="0">Więcej</word>
+  <word key="aXenServerList_widget_connect" js="0">Połącz</word>
+  <word key="aXenServerList_widget_statistics" js="0">Statystyki</word>
+  <word key="aXenServerList_widget_vote" js="0">Głosowanie</word>
+  <word key="aXenServerList_widget_forum" js="0">Forum</word>
+  <word key="aXenServerList_widget_tv" js="0">TV</word>
+  <word key="aXenServerList_widget_new" js="0">Nowy</word>
+  <word key="axenserverlist_top_server" js="0">Wyróżnić serwer?</word>
+  <word key="axenserverlist_top_server_desc" js="0">Wyświetla ikonę trofeum obok nazwy serwera.</word>
+  <word key="axenserverlist_top_server_text" js="0">Tekst dla wyróżnionego serwera w tootlip</word>
+  <word key="axenserverlist_ip_custom" js="0">Własna domena IP</word>
+  <word key="axenserverlist_ip_custom_desc" js="0">Na przykład: mc.yourwebsite.com</word>
+  <word key="axenserverlist_name_default" js="0">Pobrać nazwę z serwera i wyświetlić?</word>
+  <word key="axenserverlist_name_default_desc" js="0">Jeśli ta opcja jest włączona, wyświetla nazwę serwera zamiast własnej nazwy.</word>
+  <word key="aXenServerList_widget_toggle_hide" js="0">Przełącz widget</word>
+  <word key="aXenServerList_widget_toggle_scroll" js="0">Przełącz przewijanie</word>
+  <word key="aXenServerList_widget_map" js="0">Mapa</word>
+  <word key="aXenServerList_widget_none" js="0">N/A</word>
+  <word key="aXenServerList_widget_owners" js="0">Właściciele</word>
+  <word key="aXenServerList_widget_protocol" js="0">Protokół</word>
+  <word key="axenserverlist_query_port" js="0">Query port</word>
+  <word key="aXenServerList_widget_password" js="0">Hasło</word>
+  <word key="aXenServerList_widget_most_players" js="0">Najwięcej graczy</word>
+  <word key="aXenServerList_widget_percent_players" js="0">Procentowe wypełnienie</word>
+  <word key="aXenServerList_settings_colors" js="0">Włączyć kolorowe wypełnienie graczy?</word>
+  <word key="aXenServerList_settings_colors_desc" js="0"><![CDATA[Jeśli jest wyłączona, pobierze kolor z <span style="font-weight: bold;">var(--theme-link_hover)</span>.]]></word>
+  <word key="aXenServerList_settings_colors_1_20" js="0">(1-20) Kolorowe wypełnienie graczy</word>
+  <word key="aXenServerList_settings_colors_21_40" js="0">(21-40) Kolorowe wypełnienie graczy</word>
+  <word key="aXenServerList_settings_colors_41_60" js="0">(41-60) Kolorowe wypełnienie graczy</word>
+  <word key="aXenServerList_settings_colors_61_80" js="0">(61-80) Kolorowe wypełnienie graczy</word>
+  <word key="aXenServerList_settings_colors_81_100" js="0">(81-100) Kolorowe wypełnienie graczy</word>
+  <word key="axenserverlist_tab_basic" js="0">Podstawowe</word>
+  <word key="axenserverlist_tab_urls" js="0">URLy</word>
+  <word key="axenserverlist_tab_advanced" js="0">Zaawansowane</word>
+  <word key="aXenServerList_widget_totalServers" js="0">Wszystkich serwerów</word>
+  <word key="aXenServerList_widget_totalPlayers" js="0">Wszystkich graczy</word>
+  <word key="aXenServerList_widget_totalPlayersPercent" js="0">Zapełnienie serwerów</word>
+  <word key="aXenServerList_settings_footer" js="0">Włączyć stopkę?</word>
+  <word key="aXenServerList_settings_footer_desc" js="0">Stopka zawiera statystyki: całkowitą liczbę serwerów, całkowitą liczbę graczy, zapełnienie serwerów.</word>
+  <word key="axenserverlist_tab_general" js="0">Główne</word>
+  <word key="axenserverlist_tab_view" js="0">Widok</word>
+  <word key="aXenServerList_settings_scroll" js="0">Włączyć przewijanie listy serwerów?</word>
+  <word key="aXenServerList_settings_scroll_desc" js="0">Jeśli wysokość przekroczy ustawioną wartość, pojawi się przewijanie.</word>
+  <word key="aXenServerList_settings_scroll_height" js="0">Wysokość listy serwerów</word>
+  <word key="aXenServerList_settings_scroll_height_desc" js="0">Wartość w pixelach (px).</word>
+  <word key="aXenServerList_settings_scroll_control" js="0">Czy użytkownicy mogą kontrolować przewijanie?</word>
+  <word key="aXenServerList_settings_scroll_control_desc" js="0">Użytkownicy będą mogli włączać i wyłączać przewijanie.</word>
+  <word key="axenserverlist_tab_scroll" js="0">Przewijanie</word>
+  <word key="aXenServerList_settings_fullWidth" js="0">Włączyć tabelę w 2 kolumnach (pełna szerokość)?</word>
+  <word key="aXenServerList_settings_fullWidth_desc" js="0"><![CDATA[<p class="ipsMessage ipsMessage_warning">Gdy ta opcja jest włączona, obszar widżetów powinien zajmować całą szerokość strony!</p>]]></word>
+  <word key="aXenServerList_widget_clickToConnect" js="0">Kliknij przycisk Połącz</word>
+  <word key="aXenServerList_settings_scroll_default" js="0">Włączyć przewijanie domyślnie?</word>
+  <word key="aXenServerList_settings_scroll_mobile" js="0">(Mobile) Wymusić przewijanie?</word>
+  <word key="aXenServerList_settings_scroll_mobile_desc" js="0"><![CDATA[<p class="ipsMessage ipsMessage_warning">Gdy ta opcja jest włączona, zmiana przewijania przez użytkownika nie jest możliwa na urządzeniach mobilnych!</p>]]></word>
+  <word key="aXenServerList_settings_scroll_mobile_value" js="0">(Mobile) Wysokość listy serwerów</word>
+  <word key="aXenServerList_settings_scroll_mobile_value_desc" js="0">Wartość w pixelach (px).</word>
+  <word key="axenserverlist_header_colorFilling" js="0">Kolorowe wypełnienie graczy</word>
+  <word key="aXenServerList_widget_toggle_fullWidth" js="0">Przełącz widok</word>
+  <word key="aXenServerList_settings_fullWidth_control" js="0">Czy użytkownicy mogą zmieniać widok?</word>
+  <word key="aXenServerList_settings_fullWidth_control_desc" js="0">Użytkownicy będą mogli zmieniać widok widżetu.</word>
+  <word key="aXenServerList_settings_fullWidth_default" js="0">Czy domyślnie włączyć tabelę w 2 kolumnach (pełna szerokość)?</word>
+  <word key="r__servers" js="0">Server list</word>
+  <word key="r__servers_manage" js="0">Może zarządzać serwerami?</word>
+ </app>
+</language>
