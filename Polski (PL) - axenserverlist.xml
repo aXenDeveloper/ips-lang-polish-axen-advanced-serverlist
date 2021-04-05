@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski (PL)" rtl="0">
- <app key="axenserverlist" version="10003">
+ <app key="axenserverlist" version="10010">
   <word key="__app_axenserverlist" js="0">(aXen) Advanced Server List</word>
   <word key="menutab__axenserverlist_icon" js="0">server</word>
   <word key="menutab__axenserverlist" js="0">Advanced Server List</word>
@@ -19,6 +19,8 @@
   <word key="block_aXenServerListWidget" js="0">Lista serwerów</word>
   <word key="block_aXenServerListWidget_desc" js="0">Widżet pokazuje serwery</word>
   <word key="aXenServerList_widget_title" js="0">Nasze serwery</word>
+  <word key="aXenServerList_settings_owners" js="0">Pokaż właścicieli serwerów?</word>
+  <word key="aXenServerList_settings_owners_desc" js="0">Jeśli ta opcja jest wyłączona, właściciele serwerów wyświetlają się w przycisku więcej.</word>
   <word key="aXenServerList_widget_more" js="0">Więcej</word>
   <word key="aXenServerList_widget_connect" js="0">Połącz</word>
   <word key="aXenServerList_widget_statistics" js="0">Statystyki</word>
@@ -82,5 +84,23 @@
   <word key="aXenServerList_settings_fullWidth_default" js="0">Czy domyślnie włączyć tabelę w 2 kolumnach (pełna szerokość)?</word>
   <word key="r__servers" js="0">Server list</word>
   <word key="r__servers_manage" js="0">Może zarządzać serwerami?</word>
+  <word key="axenserverlist_ip_desc" js="0">Jeśli twój serwer to Discord, podaj ID widżetu.</word>
+  <word key="aXenServerList_page" js="0">Lista serwerów</word>
+  <word key="module__axenserverlist_servers" js="0">Serwery</word>
+  <word key="frontnavigation_axenserverlist" js="0">Serwery</word>
+  <word key="axenserverlist_tab_personalization" js="0">Personalizacja</word>
+  <word key="aXenServerList_tab_personalization_buttons" js="0">Przyciski</word>
+  <word key="axenserverlist_header_buttons" js="0">Przyciski</word>
+  <word key="aXenServerList_settings_buttons_vote" js="0">Głosowanie</word>
+  <word key="aXenServerList_settings_buttons_statistics" js="0">Statystyki</word>
+  <word key="aXenServerList_settings_buttons_tv" js="0">TV</word>
+  <word key="aXenServerList_settings_buttons_forum" js="0">Forum</word>
+  <word key="aXenServerList_debug_icon" js="0">Tryb debugowania jest włączony na tym serwerze</word>
+  <word key="axenserverlist_debug" js="0">Tryb debugowania</word>
+  <word key="aXenServerList_widget_totalServersDebug" js="0">Serwery z włączonym trybem debugowania</word>
+  <word key="aXenServerList_widget_toggle_debug" js="0">Pokaż serwery w trybie debugowania</word>
+  <word key="axenserverlist_debug_text" js="0">[Tryb debugowania] Powód</word>
+  <word key="axenserverlist_debug_text_YesNo" js="0">[Tryb debugowania] Włączyć powód?</word>
+  <word key="axenserverlist_debug_text_YesNo_desc" js="0">Powód pojawi się w zakładce więcej dla danego serwera oraz w podsumowaniu u góry tabeli.</word>
  </app>
 </language>
