@@ -2,8 +2,7 @@
 
 ## 🏷️ Requirements
 
-- [IPS Community Suite: 4.5 version](https://invisioncommunity.com/)
-- [(aXen) Advanced Server List 1.1.0](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)
+- [(aXen) Advanced Server List 1.2.0](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)
 
 ## 🧰 Install and update
 
@@ -16,5 +15,3 @@
 ## 🔌 Download from other sources
 
 - [invisionize.pl](https://forum.invisionize.pl/files/file/826-axen-advanced-server-list-polish-translation/)
-
-_The resources from the links above are updated on an ongoing basis if the administration approves the file._
