@@ -2,7 +2,7 @@
 
 ## 🏷️ Requirements
 
-- [(aXen) Advanced Server List 2.0.0](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)
+- [(aXen) Advanced Server List 2.1.0](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)
 
 ## 🧰 Install and update
 

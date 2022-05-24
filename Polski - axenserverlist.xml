@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="axenserverlist" version="10016">
+ <app key="axenserverlist" version="10018">
   <word key="__app_axenserverlist" js="0">(aXen) Advanced Server List</word>
   <word key="menutab__axenserverlist_icon" js="0">server</word>
   <word key="menutab__axenserverlist" js="0">Advanced Server List</word>
@@ -10,8 +10,8 @@
   <word key="axenserverlist_game" js="0">Gra</word>
   <word key="axenserverlist_name" js="0">Własna nazwa</word>
   <word key="axenserverlist_ip" js="0">IP</word>
-  <word key="axenserverlist_ip_desc" js="0">Jeśli twój serwer to Discord, podaj ID widżetu.</word>
-  <word key="axenserverlist_statistics" js="0">Statystyka URL</word>
+  <word key="axenserverlist_ip_desc" js="0">Jeśli twój serwer to Discord, podaj widżet ID.</word>
+  <word key="axenserverlist_statistics" js="0">Statystyki URL</word>
   <word key="axenserverlist_tv" js="0">TV URL</word>
   <word key="axenserverlist_vote" js="0">Głosowanie URL</word>
   <word key="axenserverlist_forum" js="0">Forum URL</word>
@@ -25,14 +25,14 @@
   <word key="aXenServerList_widget_vote" js="0">Głosowanie</word>
   <word key="aXenServerList_widget_forum" js="0">Forum</word>
   <word key="aXenServerList_widget_tv" js="0">TV</word>
-  <word key="aXenServerList_widget_new" js="0">Nowy</word>
+  <word key="aXenServerList_widget_new" js="0">Nowe</word>
   <word key="axenserverlist_top_server" js="0">Wyróżnić serwer?</word>
   <word key="axenserverlist_top_server_desc" js="0">Wyświetla ikonę trofeum obok nazwy serwera.</word>
-  <word key="axenserverlist_top_server_text" js="0">Tekst dla wyróżnionego serwera w tootlip</word>
-  <word key="axenserverlist_ip_custom" js="0">Własna domena IP</word>
+  <word key="axenserverlist_top_server_text" js="0">Tekst dla wyróżnionego serwera w tootlipach</word>
+  <word key="axenserverlist_ip_custom" js="0">Domena własnego IP</word>
   <word key="axenserverlist_ip_custom_desc" js="0">Na przykład: mc.yourwebsite.com</word>
   <word key="axenserverlist_name_default" js="0">Pobrać nazwę z serwera i wyświetlić?</word>
-  <word key="axenserverlist_name_default_desc" js="0">Jeśli ta opcja jest włączona, wyświetla nazwę serwera zamiast własnej nazwy.</word>
+  <word key="axenserverlist_name_default_desc" js="0">Jeśli ta opcja jest włączona, wyświetla nazwę serwera zamiast niestandardowej nazwy.</word>
   <word key="aXenServerList_widget_toggle_hide" js="0">Przełącz widget</word>
   <word key="aXenServerList_widget_toggle_scroll" js="0">Przełącz przewijanie</word>
   <word key="aXenServerList_widget_map" js="0">Mapa</word>
@@ -51,7 +51,7 @@
   <word key="aXenServerList_settings_colors_61_80" js="0">(61-80) Kolorowe wypełnienie graczy</word>
   <word key="aXenServerList_settings_colors_81_100" js="0">(81-100) Kolorowe wypełnienie graczy</word>
   <word key="axenserverlist_tab_basic" js="0">Podstawowe</word>
-  <word key="axenserverlist_tab_urls" js="0">URLy</word>
+  <word key="axenserverlist_tab_urls" js="0">URLe</word>
   <word key="axenserverlist_tab_advanced" js="0">Zaawansowane</word>
   <word key="aXenServerList_widget_totalServers" js="0">Wszystkich serwerów</word>
   <word key="aXenServerList_widget_totalPlayers" js="0">Wszystkich graczy</word>
@@ -101,11 +101,10 @@
   <word key="axenserverlist_tab_debug" js="0">Tryb debugowania</word>
   <word key="axenserverlist_custom_connect" js="0">Włączyć własne linki, aby połączyć się z serwerem?</word>
   <word key="axenserverlist_custom_connect_link" js="0">Własny link do połączenia z serwerem</word>
-  <word key="axenserverlist_custom_connect_link_desc" js="0"><![CDATA[<span style="color: red;">W tym miejscu musi znajdować się link do adresu URL, który możesz wkleić do przeglądarki!</span>]]></word>
+  <word key="axenserverlist_custom_connect_link_desc" js="0"><![CDATA[<span style="color: red;">Musi być tutaj link URL, który możesz wkleić do swojej przeglądarki!</span>]]></word>
   <word key="axenserverlist_header_serverQuery" js="0">Zapytania do serwera</word>
   <word key="aXenServerList_settings_serverQuery_maxQuery" js="0">Maksymalna liczba zapytań</word>
   <word key="aXenServerList_settings_serverQuery_maxQuery_desc" js="0"><![CDATA[Gdy serwer nie odpowiada, aplikacja zapyta serwer tyle razy, ile jest to ustawione w ustawieniach.<br><span style="color: red;">Zbyt wysoka wartość może wpłynąć na szybkość serwera, na którym działa Twoja społeczność!</span>]]></word>
-  <word key="aXenServerList_page" js="0">Lista serwerów</word>
   <word key="menu__axenserverlist_servers_mods" js="0">Mody</word>
   <word key="aXenServerList_admin_table_servers_tab_basic" js="0">Podstawowe</word>
   <word key="aXenServerList_admin_table_servers_name" js="0">Własna nazwa</word>
@@ -114,7 +113,7 @@
   <word key="aXenServerList_admin_table_servers_name_default_desc" js="0">Jeśli ta opcja jest włączona, wyświetla nazwę serwera zamiast niestandardowej nazwy.</word>
   <word key="aXenServerList_admin_table_servers_ip" js="0">IP</word>
   <word key="aXenServerList_admin_table_servers_ip_desc" js="0">Jeśli twój serwer to Discord, podaj identyfikator widżetu.</word>
-  <word key="aXenServerList_admin_table_servers_ip_custom" js="0">Niestandardowa domena IP</word>
+  <word key="aXenServerList_admin_table_servers_ip_custom" js="0">Domena własnego API</word>
   <word key="aXenServerList_admin_table_servers_ip_custom_desc" js="0">Na przykład: mc.yourwebsite.com</word>
   <word key="aXenServerList_admin_table_servers_query_port" js="0">Query port</word>
   <word key="aXenServerList_admin_table_servers_custom_connect" js="0">Włączyć własne linki, aby połączyć się z serwerem?</word>
@@ -122,10 +121,10 @@
   <word key="aXenServerList_admin_table_servers_custom_connect_link_desc" js="0"><![CDATA[<span style="color: red;">Musi być tutaj link URL, który możesz wkleić do swojej przeglądarki!</span>]]></word>
   <word key="aXenServerList_admin_table_servers_tab_debug" js="0">Tryb debugowania</word>
   <word key="aXenServerList_admin_table_servers_debug" js="0">Włączyć tryb debugowania?</word>
-  <word key="aXenServerList_admin_table_servers_debug_text_YesNo" js="0">Włączyć powód?</word>
+  <word key="aXenServerList_admin_table_servers_debug_text_YesNo" js="0">Włączyć powody?</word>
   <word key="aXenServerList_admin_table_servers_debug_text_YesNo_desc" js="0">Powód pojawi się w zakładce więcej dla danego serwera oraz w podsumowaniu u góry tabeli.</word>
-  <word key="aXenServerList_admin_table_servers_tab_urls" js="0">URLy</word>
-  <word key="aXenServerList_admin_table_servers_url_statistics" js="0">Statystyka URL</word>
+  <word key="aXenServerList_admin_table_servers_tab_urls" js="0">URLe</word>
+  <word key="aXenServerList_admin_table_servers_url_statistics" js="0">Statystyki URL</word>
   <word key="aXenServerList_admin_table_servers_url_tv" js="0">TV URL</word>
   <word key="aXenServerList_admin_table_servers_url_vote" js="0">Głosowanie URL</word>
   <word key="aXenServerList_admin_table_servers_url_forum" js="0">Forum URL</word>
@@ -134,29 +133,35 @@
   <word key="aXenServerList_admin_table_servers_new" js="0">Nowy serwer?</word>
   <word key="aXenServerList_admin_table_servers_top_server" js="0">Wyróżnić serwer?</word>
   <word key="aXenServerList_admin_table_servers_top_server_desc" js="0">Wyświetla ikonę trofeum obok nazwy serwera.</word>
-  <word key="aXenServerList_admin_table_servers_top_server_text" js="0">Tekst do wyróżnienia serwera w tootlipach</word>
+  <word key="aXenServerList_admin_table_servers_top_server_text" js="0">Tekst dla wyróżnionego serwera w tootlipach</word>
   <word key="aXenServerList_admin_table_mods_icon" js="0">Ikona</word>
   <word key="aXenServerList_admin_table_mods_icon_desc" js="0"><![CDATA[Ikona musi mieć takie same wymiary.<br />Zalecane: <span style='font-weight: bold;'>24x24</span>px.]]></word>
   <word key="aXenServerList_admin_table_mods_name" js="0">Nazwa</word>
   <word key="aXenServerList_admin_table_mods_protocol" js="0">Protokół</word>
   <word key="aXenServerList_admin_table_mods_api" js="0">Własne API</word>
-  <word key="aXenServerList_admin_table_mods_api_url" js="0"><![CDATA[Custom API Field<br />Adres URL]]></word>
-  <word key="aXenServerList_admin_table_mods_api_current_players" js="0"><![CDATA[Pole własnego API<br />Aktualnie gracze]]></word>
+  <word key="aXenServerList_admin_table_mods_api_url" js="0"><![CDATA[Pole własnego API<br />Adres URL]]></word>
+  <word key="aXenServerList_admin_table_mods_api_current_players" js="0"><![CDATA[Pole własnego API<br />Aktualni gracze]]></word>
   <word key="aXenServerList_admin_table_mods_api_max_players" js="0"><![CDATA[Pole własnego API<br />Maksymalna ilość graczy]]></word>
   <word key="aXenServerList_admin_table_mods_api_password" js="0"><![CDATA[Pole własnego API<br />Hasło]]></word>
   <word key="aXenServerList_admin_table_mods_api_map" js="0"><![CDATA[Pole własnego API<br />Mapa API]]></word>
   <word key="aXenServerList_admin_table_mods_api_platform" js="0"><![CDATA[Pole własnego API<br />Platforma]]></word>
   <word key="aXenServerList_settings_table_group" js="0">Włączyć grupowanie serwerów?</word>
-  <word key="aXenServerList_settings_table_group_icon" js="0">Wyświetl ikonę mod</word>
-  <word key="aXenServerList_settings_table_group_icon_only_category" js="0">Tylko przy kategorii</word>
-  <word key="aXenServerList_settings_table_group_icon_only_server" js="0">Tylko przy serwerze</word>
+  <word key="aXenServerList_settings_table_group_icon" js="0">Wyświetl ikonę moda</word>
+  <word key="aXenServerList_settings_table_group_icon_only_category" js="0">Tylko w kategorii</word>
+  <word key="aXenServerList_settings_table_group_icon_only_server" js="0">Tylko na serwerze</word>
   <word key="aXenServerList_settings_table_group_icon_all" js="0">Kategoria i serwer</word>
   <word key="aXenServerList_admin_table_servers_debug_text" js="0">Powód</word>
-  <word key="aXenServerList_admin_table_mods_api_status" js="0"><![CDATA[Custom API Field<br />Status]]></word>
+  <word key="aXenServerList_admin_table_mods_api_status" js="0"><![CDATA[Pole własnego API<br />Status]]></word>
   <word key="aXenServerList_admin_table_mods_api_name" js="0"><![CDATA[Pole własnego API<br />Nazwa]]></word>
   <word key="aXenServerList_admin_table_mods_api_connect_link" js="0"><![CDATA[Pole własnego API<br />Link do połączenia]]></word>
   <word key="aXenServerList_admin_table_servers_buttons_debug" js="0">Debuguj serwer</word>
-  <word key="aXenServerList_popup_debug_add" js="0">Dodano dziennik serwera</word>
-  <word key="aXenServerList_admin_table_mods_api_url_desc" js="0"><![CDATA[Adres URL musi mieć możliwość dodania zmiennej do adresu URL.<br />A więc np. https://query.li/api/csgo/<span style="font-weight: bold;">{ip}</span>/<span style="font-weight: bold;">{port}</span><br /><span style="font-weight: bold;">Upewnij się, że adres URL zawiera {ip} lub {ip} wraz z {port}.</span>]]></word>
+  <word key="aXenServerList_popup_debug_add" js="0">Dodano logi serwera</word>
+  <word key="aXenServerList_admin_table_mods_api_url_desc" js="0"><![CDATA[Adres URL musi mieć możliwość dodania zmiennej do adresu URL.<br />Więc np. https://query.li/api/csgo/<span style="font-weight: bold;">{ip}</span>/<span style="font-weight: bold;">{port}</span><br /><span style="font-weight: bold;">Upewnij się, że adres URL zawiera {ip} lub {ip} wraz z {port}.</span>]]></word>
+  <word key="axenserverlist_tab_view" js="0">Widok</word>
+  <word key="aXenServerList_page" js="0">Lista serwerów</word>
+  <word key="aXenServerList_tab_personalization_buttons" js="0">Przyciski</word>
+  <word key="aXenServerList_widget_totalServersDebug" js="0">Serwery z włączonym trybem debugowania</word>
+  <word key="aXenServerList_settings_owners" js="0">Pokaż właścicieli serwerów?</word>
+  <word key="aXenServerList_settings_owners_desc" js="0">Jeśli ta opcja jest wyłączona, właściciele serwerów wyświetlają się w przycisku więcej.</word>
  </app>
 </language>
